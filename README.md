@@ -14,7 +14,7 @@ Python 3.x interpreter<br>
 This is consule Python application , you only need enter this command to run result from txt matrices files.<br>
 > python mat1.py<br>
 
-- if you have problem for run problem please check file path or use os module to set path of txt files.<br>
+- if you have problem for run program please check file path or use os module to set path of txt files.<br>
 
 ## Short explanation about calculation process in DP approach
 M1 = [[11,3],[7,11]] # Dimension 2x2<br>
