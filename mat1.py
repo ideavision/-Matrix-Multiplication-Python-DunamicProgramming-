@@ -51,7 +51,7 @@ arr = [len(x),len(x[0]),len(y[0]),len(z[0])]
 # Array that chain multiplication from M(2x2) M(2x3) M(3x1) 
 print('Array that chain multiplication from matrices : M(2x2) M(2x3) M(3x1) --> ',arr)
 
-m, s = mtrx_order(arr)
+m, s = mtrx_ord(arr)
 
 # Print Optimized parentes solution 
 pnt_optimize_par_solution(s, 0, 2)
