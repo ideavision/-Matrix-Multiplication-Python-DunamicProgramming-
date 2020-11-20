@@ -16,6 +16,7 @@ This is consule Python application , you only need enter this command to run res
 
 - if you have problem for run problem please check file path or use os module to set path of txt files.<br>
 
+## Short explanation about calculation process in DP approach
 M1 = [[11,3],[7,11]] # Dimension 2x2<br>
 M2 = [[8,0,1],[0,3,5]] # Dimension 2x3<br>
 M3 = [[1],[3],[2]] # Dimension 3x1<br>
