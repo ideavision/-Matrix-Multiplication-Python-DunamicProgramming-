@@ -1,4 +1,4 @@
-# -Matrix-Multiplication-Python-DunamicProgramming-
+# -Matrix-Multiplication-Python-DynamicProgramming-
 
 optimized matrix multiplication Dynamic Programming - Python<br>
 
