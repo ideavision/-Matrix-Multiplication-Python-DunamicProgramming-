@@ -6,10 +6,11 @@ optimized matrix multiplication Dynamic Programming - Python<br>
 Input: a chain of matrices to be multiplied that read from txt files.<br>
 Output: a parenthesizing of the chain and process calculation <br>
 Objective: minimize number of steps needs for the multiplication<br>
-<br>
-## Requirements:<br>
-<br>
-## Run:<br>
+
+## Requirements:
+Python 3.x interpreter<br>
+
+## Run:
 This is consule Python application , you only need enter this command to run result from txt matrices files.<br>
 > python mat1.py<br>
 
