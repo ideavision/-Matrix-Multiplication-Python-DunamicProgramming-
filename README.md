@@ -3,7 +3,7 @@
 optimized matrix multiplication Dynamic Programming - Python<br>
 
 ### Description:
-Input: a chain of matrices to be multiplied that read from txt files.<br><br>
+Input: a chain of matrices to be multiplied that read from txt files.<br>
 Output: a parenthesizing of the chain and process calculation <br>
 Objective: minimize number of steps needs for the multiplication<br>
 <br>
