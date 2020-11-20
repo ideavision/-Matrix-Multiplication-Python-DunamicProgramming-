@@ -1,4 +1,4 @@
-def mtrx_order(p):
+def mtrx_ord(p):
     n = len(p) - 1
 
     m = [[0 for x in range(0, n)] for y in range(0, n)]
@@ -7,7 +7,7 @@ def mtrx_order(p):
     for i in range(0,n):
         m[i][i] = 0
 
-    # compute smallest matrix costs first
+    # first compute smallest matrix cost 
     # for chains of length 2 to n
     for l in range(2, n+1):
         for i in range(0, n - l + 1):
