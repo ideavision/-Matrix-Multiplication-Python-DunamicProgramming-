@@ -1,5 +1,19 @@
 # -Matrix-Multiplication-Python-DunamicProgramming-
 
+optimized matrix multiplication Dynamic Programming - Python<br>
+
+### Description:
+Input: a chain of matrices to be multiplied that read from txt files.<br><br>
+Output: a parenthesizing of the chain and process calculation <br>
+Objective: minimize number of steps needs for the multiplication<br>
+<br>
+### Requirements:<br>
+<br>
+### Run:<br>
+This is consule Python application , you only need enter this command to run result from txt matrices files.<br>
+> python mat1.py<br>
+
+- if you have problem for run problem please check file path or use os module to set path of txt files.<br>
 
 M1 = [[11,3],[7,11]] # Dimension 2x2<br>
 M2 = [[8,0,1],[0,3,5]] # Dimension 2x3<br>
